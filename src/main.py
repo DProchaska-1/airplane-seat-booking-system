@@ -26,7 +26,7 @@ def load_seats():
 
 	seats = []	# list that will store seating chart
 
-	file = open("seats.txt", "r")
+	file = open("data/seats.txt", "r")
 
 	# PROCESSING: read each line of the file
 
@@ -45,7 +45,7 @@ def load_seats():
 
 def save_seats(seats):
 
-	file = open("seats.txt", "w")
+	file = open("data/seats.txt", "w")
 
 	# PROCESSING: write each row of seats to the file
 	for row in seats:
