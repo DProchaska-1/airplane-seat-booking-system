@@ -61,6 +61,26 @@ The program will load the seating information from `data/seats.txt`.
  
   ---
 
+## Program Preview
+
+### Main Menu
+
+![Main Menu](screenshots/main-menu.png)
+
+### Seating Chart
+
+![Seating Chart](screenshots/seating-chart.png)
+
+### Seat Reservation
+
+![Seat Reservation](screenshots/seat-reservation.png)
+
+### Occupancy Statistics
+
+![Statistics](screenshots/statistics.png)
+
+---
+
   ## Future Improvements
 
   - Graphical user interface (GUI)
